@@ -1,0 +1,6 @@
+#/usr/bin/env bash
+
+PROXY=<proxy>
+
+export http_proxy=$PROXY
+export http_proxy=$PROXY
